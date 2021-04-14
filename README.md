@@ -1,16 +1,17 @@
-### Hi there 👋
+Ajahinnang tööle
 
-<!--
-**KaitRosenberg/KaitRosenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Analüüst ja senise koodi läbivaatus: 3 tundi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soovitud muudatuste tegemine: 8 tundi
+
+Dokumenteerimine: 2 tundi
+
+Testimine: 3 tundi
+
+Võimalikud veaparandused: 1,5 tundi
+
+Paigaldus: 1 tund
+
+Tööteastamise ajakulu on kokku 17,5 tundi. Hind 500 eurot + km.
+Töö oleks valmis 23. aprill 2021.
