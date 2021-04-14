@@ -14,4 +14,5 @@ Võimalikud veaparandused: 1,5 tundi
 Paigaldus: 1 tund
 
 Tööteastamise ajakulu on kokku 17,5 tundi. Hind 500 eurot + km.
-Töö oleks valmis 23. aprill 2021.
+Töö oleks valmis 23. aprill 2021. 
+Kui leiate odavama hinna mis on tõestatav siis on võimalik hinda langetada.
